@@ -20,7 +20,7 @@ A content-based movie recommendation system that suggests similar movies based o
 - **TF-IDF Vectorization** of movie metadata
 - **Dimensionality Reduction** using PCA for 2D visualization
 - **Scatter Plot** of movie clusters based on content
-- ☁**Word Cloud** representing most frequent keywords across movies
+- **Word Cloud** representing most frequent keywords across movies
 - Clean and interpretable code with helper functions and modular structure
 
 ---
